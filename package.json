@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "usc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByungsooLee/Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ByungsooLee/Typescript/issues"
+  },
+  "homepage": "https://github.com/ByungsooLee/Typescript#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
